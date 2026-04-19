@@ -8,7 +8,7 @@
 [![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red?style=flat-square)](https://attack.mitre.org)
 [![OS](https://img.shields.io/badge/Attacker-BlackArch%20Linux-black?style=flat-square&logo=archlinux)](https://blackarch.org)
 [![OS](https://img.shields.io/badge/Manager-Kali%20Linux-blue?style=flat-square&logo=kalilinux)](https://kali.org)
-[![Program](https://img.shields.io/badge/Program-SAIZERO%20Internship%202026-darkblue?style=flat-square)](https://github.com/Satz-N-Sentry)
+
 
 > **CyberLycan — Every shadow has a hunter.**
 > SAIZERO | Ground Zero Defence
